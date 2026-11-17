@@ -1,0 +1,16 @@
+Business: Sam's Bike Repair
+Tagline: Fast, honest bike repairs. Back on the road in 24 hours.
+Owner: Sam
+Services and prices:
+- Basic tune-up: from $35
+- Flat tire fix: from $12
+- Brake adjustment: from $20
+- Full service: from $75
+Reviews:
+- "Fixed my brakes the same day. Super friendly!" - Priya
+- "Honest prices and great advice." - Tom
+- "My old bike rides like new." - Ana
+Address: 12 Riverside Road, Springfield
+Hours: Mon-Fri 9am-6pm, Sat 10am-4pm, Sun closed
+Phone / WhatsApp: +1 555 0100 (placeholder)
+Email: hello@samsbikes.example
